@@ -1,7 +1,7 @@
 # Project: Credit Card Fraud Detection using Machine Learning
 
-**Author:** [Tên của bạn - Vũ Minh Đức]  
-**Contact:** [Email của bạn]
+**Author:** [Vũ Minh Đức]  
+**Contact:** [ducvm.ueb@gmail.com]
 
 ---
 

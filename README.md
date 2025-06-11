@@ -39,7 +39,9 @@ Two powerful models were built and compared. The evaluation focused on **Recall*
 
 By analyzing the feature importances from the XGBoost model, we can identify the key drivers of fraud. This analysis provides valuable insights for the business/risk team, suggesting that features like **V14, V4, and V12** are the strongest indicators of fraudulent activity.
 
-![Feature Importance Chart](link_to_your_feature_importance_chart_image.png) 
+<p align="center">
+  <img src="[LINK_ẢNH_BẠN_VỪA_COPY](https://github.com/minhduc280903/Fraud-Detection-Project-Portfolio/blob/main/feature_importance.png?raw=true)" alt="Feature Importance" width="700"/>
+</p>
 *(Lưu ý: Bạn có thể chụp ảnh màn hình biểu đồ Feature Importance từ notebook và tải lên repository, sau đó dán link ảnh vào đây để hiển thị).*
 
 ## 5. How to Run
